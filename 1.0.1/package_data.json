@@ -1,0 +1,53 @@
+{
+    "name": "000words-counter-app",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "000words-counter-app": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.19"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "000words-counter-app@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-2TmQBFJ9iG3mTuWqOclpWgfgsZOJn8+XtVcByPKDa+RjKo8p1yPEaz1jOI7hSZ2vAanc0dP7yPIlEb6yheidPQ==",
+        "shasum": "e8d1924fccdc96992f3d3d6d95e084d6d0a07b79",
+        "tarball": "https://registry.npmjs.org/000words-counter-app/-/000words-counter-app-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14156,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCHxFL84w40dZ8RyNhdyrnTBi3d9Vx21Xld3GNBVJT01gIgPkOOnoTB9dsPpt0FztRl2bJf0KIbcfuB9/jqGpzp3q8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "m-ismail",
+        "email": "musafirbaltistani786@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "m-ismail",
+            "email": "musafirbaltistani786@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/000words-counter-app_1.0.1_1713534940013_0.4612845287722831"
+    },
+    "_hasShrinkwrap": false
+}

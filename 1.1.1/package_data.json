@@ -1,0 +1,42 @@
+{
+    "name": "008-somepackage",
+    "version": "1.1.1",
+    "description": "Test Package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "testpack"
+    ],
+    "author": {
+        "name": "lvyan"
+    },
+    "license": "ISC",
+    "_id": "008-somepackage@1.1.1",
+    "_shasum": "c39b568fe4a5813fd1c0fe2a58496a6e086c2ba2",
+    "_from": ".",
+    "_npmVersion": "2.10.1",
+    "_nodeVersion": "0.12.4",
+    "_npmUser": {
+        "name": "lvyan",
+        "email": "lvyan@sunits.com"
+    },
+    "dist": {
+        "shasum": "c39b568fe4a5813fd1c0fe2a58496a6e086c2ba2",
+        "tarball": "https://registry.npmjs.org/008-somepackage/-/008-somepackage-1.1.1.tgz",
+        "integrity": "sha512-HGlxqaXZ02tPM9zxTM0ZldtyTiFHcOYb/IpME9hcio1OhPNMnC2w2aZQ0/fDKyloKgkT9l140MNq6pmjKNv0mQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDvmG0SZQsA+rN2bporvpcVkKjz6kqHMb41IlkBQCrBEgIgHaWVukQ2pHIxZMW4uroN422taAivQ/B8o81LNYJImFs="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "lvyan",
+            "email": "lvyan@sunits.com"
+        }
+    ]
+}

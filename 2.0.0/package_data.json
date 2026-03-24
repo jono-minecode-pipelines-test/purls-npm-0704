@@ -1,0 +1,58 @@
+{
+    "name": "-123-countdown-timer",
+    "version": "2.0.0",
+    "description": "\"# Countdown-timer\"",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-123-countdown-timer": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.12.12"
+    },
+    "dependencies": {
+        "@types/inquirer": "^9.0.7",
+        "chalk": "^5.3.0",
+        "date-fns": "^3.6.0",
+        "inquirer": "^9.2.22"
+    },
+    "_id": "-123-countdown-timer@2.0.0",
+    "gitHead": "581153a42ce317f8612e3d048007c8af731f79fe",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.4.0",
+    "dist": {
+        "integrity": "sha512-MVzm7dWNQ8kJzxMqGQUPtgloUY7MWuk4B4c5npJEyXsWilf4CSZxRP4rszZfs80P5BktIyJXE5vLXgfwLLn+Xw==",
+        "shasum": "1cc91f1bd3cdead75faa4cc14e518c303189abe1",
+        "tarball": "https://registry.npmjs.org/-123-countdown-timer/-/-123-countdown-timer-2.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 15687,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEe4AEvZMXQqDMcvWKyUgrZTfKia9DXnRyCpjJ0YVpClAiEA1UNb3b3BKat51BPRqS4o0Rs2IQo2lyIdGoXZ+kAZwsU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "amnaashrafrajput",
+        "email": "aamnaashraf501@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "amnaashrafrajput",
+            "email": "aamnaashraf501@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-123-countdown-timer_2.0.0_1717002929706_0.4352091453373663"
+    },
+    "_hasShrinkwrap": false
+}
